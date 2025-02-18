@@ -1,6 +1,6 @@
 # 🚀 Mission Tracker Web App
 https://youtu.be/dYU_G8NMo_I
-# https://www.youtube.com/shorts/sHjJ04RMTfs?feature=share =To view how email updates are working.
+## https://www.youtube.com/shorts/sHjJ04RMTfs?feature=share =To view how email updates are working.
 
 ## 📌 Project Overview
 The **Mission Tracker Web App** is a goal-setting and tracking application where users can:
